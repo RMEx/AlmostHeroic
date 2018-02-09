@@ -1,6 +1,6 @@
 [Join us on Discord !](https://discord.gg/yRUZcdQ)
 
-# [![RMEx](http://rmex.github.io/images/rmex-shortcut.png)](http://rmex.github.io) [Almost Heroic]()
+# [![RMEx](http://rmex.github.io/images/rmex-shortcut.png)](http://rmex.github.io) Almost Heroic
 > Participation to Ludum Dare #33 : You are the monster
 
 ***
