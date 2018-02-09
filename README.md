@@ -1,5 +1,9 @@
-# AlmostHeroic
+[Join us on Discord !](https://discord.gg/yRUZcdQ)
 
+# [![RMEx](http://rmex.github.io/images/rmex-shortcut.png)](http://rmex.github.io) [Almost Heroic]()
+> Participation to Ludum Dare #33 : You are the monster
+
+***
 ![BC-RME](http://www.biloucorp.com/BCW/LD33/pres/BC-RMEx.png)
 
 ![Title](http://www.biloucorp.com/BCW/LD33/pres/screen1.gif)
@@ -7,11 +11,11 @@
 ***
 ![Synopsis](http://www.biloucorp.com/BCW/LD33/pres/synopsis.png)
 ---
-*Play as Alex and save your lover Arianne who got kidnapped by  the evil emperor! He wants to marry her! 
+*Play as Alex and save your lover Arianne who got kidnapped by  the evil emperor! He wants to marry her!*
 
-Hurry up, grab your sword and get her back! 
+*Hurry up, grab your sword and get her back!*
 
-Created for Ludum Dare #33, "Almost Heroic" seems to be a classic  NES like J-RPG with a basic plot. Under its appearance, the game  denounce naively some videogame usual but harsh behaviour.*
+*Created for Ludum Dare #33, "Almost Heroic" seems to be a classic  NES like J-RPG with a basic plot. Under its appearance, the game  denounce naively some videogame usual but harsh behaviour.*
 
 ***
 ![LudumDare](http://www.biloucorp.com/BCW/LD33/pres/ludumdare.png)
