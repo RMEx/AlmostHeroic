@@ -55,9 +55,7 @@ All the graphics/sound/music is original and have been done during the jam sessi
 ![img](http://www.biloucorp.com/BCW/LD33/pres/rme.png)
 ---
 
-Our team is composed of members of the development team RMEx. 
-
-The few systems that we had the time to create (menu, quest journal,  battle system, credits) have been programmed in event, with some  RME event commands...  and RPGMaker VXAce No - more! :) 
+The few systems that we had the time to create (menu, quest journal,  battle system, credits) have been programmed in event, with some [RME](https://github.com/RMEx/RME) event commands...  and RPGMaker VXAce No - more! :) 
 
 ***
 ![img](http://www.biloucorp.com/BCW/LD33/pres/download.png)
